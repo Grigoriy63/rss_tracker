@@ -1,4 +1,4 @@
-## RSS Parser
+## RSS Tracker
 
 #### Как запустить проект
 
